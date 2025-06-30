@@ -11,3 +11,6 @@
 (1) Design principles for accurate folding of DNA origami
 Aksel et al. (2024)
 https://doi.org/10.1073/pnas.2406769121
+
+## License
+This version of cooperativity.py is available under the MIT license.

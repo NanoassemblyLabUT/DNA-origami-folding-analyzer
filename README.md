@@ -7,7 +7,7 @@ A way to estimate cooperativity in DNA origami folding. Please reference our pub
 
      note: using this formatting, you can create multiple sheets within the same Excel file and the script will prompt you to select the desired sheet
 
-4. run pyOrigamiBreak (1) (https://colab.research.google.com/drive/1wRAO8LdY5XCeuZfsmvdUHlJWMBQmQBVa) to get the theoretical Tfold output file
+4. run pyOrigamiBreak (1) (https://github.com/douglaslab/pyOrigamiBreak/tree/main) to get the theoretical Tfold output file
 5. download cooperativity.py
 6. run cooperativity.py and follow the accompanying prompts. A graph with Tfold steps will output accompanied by the cooperativity of the associated structure.
    
